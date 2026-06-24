@@ -37,7 +37,7 @@ function LoginPage() {
           <div className="login-card">
             <img src={Logo} alt="SkillSquare Logo" className="logo" />
 
-            <h1>Welcome to SkillSquare</h1>
+            <h1><span className="nono">Welcome to</span> SkillSquare</h1>
 
             <p className="subtitle">
               Assessment & Placement Management System
