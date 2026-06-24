@@ -1,7 +1,9 @@
+import Sidebar from "../Sidebar/sidebar";
+
 export default function Dashboard(){
     return(
         <>
-        <h1>Harish</h1>
+        <Sidebar/>
         </>
     )
 }
